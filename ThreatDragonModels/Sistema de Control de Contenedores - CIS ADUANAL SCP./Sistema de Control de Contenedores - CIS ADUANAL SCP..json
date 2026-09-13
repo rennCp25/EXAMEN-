@@ -13,7 +13,7 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "Nuevo DFD - Flujo Logístico y Tarifasdiagrama STRIDE",
+        "title": "DFD - Flujo Logístico",
         "diagramType": "STRIDE",
         "placeholder": "Descripción de nuevo diagrama STRIDE",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
