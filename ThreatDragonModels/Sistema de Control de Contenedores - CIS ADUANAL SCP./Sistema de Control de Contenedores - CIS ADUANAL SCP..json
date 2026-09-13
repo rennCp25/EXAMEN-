@@ -1,0 +1,18 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-09-13",
+  "summary": {
+    "title": "Sistema de Control de Contenedores - CIS ADUANAL SCP.",
+    "owner": "Renata Celis / Departamento de TICS",
+    "description": "Análisis de amenazas STRIDE sobre el flujo logístico y cálculo de tarifas aduanales.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
